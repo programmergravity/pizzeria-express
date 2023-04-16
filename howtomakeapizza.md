@@ -7,11 +7,11 @@ Ingredientes para la pizza Casera
 5. 30 gramos de levadura fresca
 
 implementos de cocina
-   <ol>
-    <li>rodillo de madera</li>
-    <li>papel de horno</li>
-    <li>bol</li>
-   </ol>
+
+1. rodillo de cocina
+2. papel de cocina
+3. bol
+
 
 Pasos de preparación
 
