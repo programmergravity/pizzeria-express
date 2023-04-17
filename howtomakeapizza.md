@@ -1,4 +1,4 @@
-Receta para la pizza casera
+Receta para elaborar una pizza casera
 
 Elaborar nuestra propia receta de pizza casera fácil es un proceso mucho más sencillo de lo que creemos, solo necesitamos conocer los ingredientes para pizza necesarios y el proceso a seguir para integrarlos. En RecetasGratis queremos que aprendas recetas fáciles que te permitan preparar platos exquisitos y únicos, como diferentes variedades de pizzas caseras. Por ello, aquí te mostramos cómo hacer pizza casera, ¿vas a perdértela?
 
